@@ -3,7 +3,7 @@
     "description" : "Visul Help for Controlling Civs",
     "author" : "katze0010",
     "contact" : "N/A",
-    "color" : "100 100 100",
+    "color": "36 36 36",
     "hooks" : [
         {
             "hook_id" : "lib/managers/group_ai_states/groupaistatebase",
