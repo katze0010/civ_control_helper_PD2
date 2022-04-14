@@ -14,8 +14,8 @@ function GroupAIStateBase:_upd_criminal_suspicion_progress(...)
 						if not obs_susp_data._subdued_civ then
 							obs_susp_data._alerted_civ = nil
 							obs_susp_data._subdued_civ = true
-							color = Color(0, 1, 0)
-							arrow_color = Color(0, 1, 0)
+							color = Color(0.264, 0.996, 0.756)
+							arrow_color = Color(0.264, 0.996, 0.756)
 						end
 					end
 					if color then
