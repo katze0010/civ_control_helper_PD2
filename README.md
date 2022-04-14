@@ -1,1 +1,3 @@
-# civ_controll_helper_PD2
+## Civilian Control Helper for Payday 2
+
+Inspired by a Feature of Wolfhud, but a Standalone Version
